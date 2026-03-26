@@ -42,6 +42,7 @@ dependencies:
   webview_flutter: ^4.13.1
   pin_code_fields: ^9.1.0
   google_fonts: ^8.0.2
+  firebase_core: ^4.6.0
 
 dev_dependencies:
   flutter_test:

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "135503494082",
+    "project_id": "motoh-e469f",
+    "storage_bucket": "motoh-e469f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135503494082:android:ded54dddb95f194b0e345b",
+        "android_client_info": {
+          "package_name": "com.motoh.motoh_business"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qu4Rde92OXQqdle2MQ2K1nHguyAybpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135503494082:android:7b62f8fe1a4155030e345b",
+        "android_client_info": {
+          "package_name": "com.motoh.motoh_client"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC8qu4Rde92OXQqdle2MQ2K1nHguyAybpE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
